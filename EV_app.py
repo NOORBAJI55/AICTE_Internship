@@ -40,7 +40,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Image
-st.image("ev-car-factory.jpg", use_container_width=True)
+st.image("electric-vehicles.jpg", use_container_width=True)
 
 # Instruction line
 st.markdown("""
